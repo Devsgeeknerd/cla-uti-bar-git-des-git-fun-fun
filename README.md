@@ -42,9 +42,9 @@ No diagrama acima, podemos ver:
 
 ### Vocabulário Básico:
 
-- Branch → Como uma estrada ou caminho separado onde você pode fazer mudanças
-- Commit → Uma foto do seu castelo mostrando como ele está naquele momento
-- Merge → Quando você junta duas estruturas (como colocar uma nova torre de volta no castelo principal)
+- `Branch` &#8594; Como uma estrada ou caminho separado onde você pode fazer mudanças.
+- `Commit` &#8594; Uma foto do seu castelo mostrando como ele está naquele momento.
+- `Merge` &#8594; Quando você junta duas estruturas (como colocar uma nova torre de volta no castelo principal).
 
 ### Comandos Principais:
 
